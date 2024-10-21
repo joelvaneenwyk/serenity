@@ -2,7 +2,7 @@
 CompileFlags:
     Add: 
         - -D__serenity__
-        - -std=c++17
+        - -std=c++23
     CompilationDatabase: Build/x86_64
 
 Diagnostics:
