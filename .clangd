@@ -1,0 +1,10 @@
+
+CompileFlags:
+    Add: 
+        - -D__serenity__
+        - -std=c++17
+    CompilationDatabase: Build/x86_64
+
+Diagnostics:
+    UnusedIncludes: None
+    MissingIncludes: None
